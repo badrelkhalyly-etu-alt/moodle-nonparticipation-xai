@@ -1,0 +1,6 @@
+data/*.csv
+results/recomputed.json
+results/comparison_report.csv
+results/smoke.json
+__pycache__/
+.ipynb_checkpoints/
